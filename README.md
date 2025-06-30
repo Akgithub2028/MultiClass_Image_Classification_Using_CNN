@@ -1,5 +1,5 @@
 # MultiClass Image Classification using CNN and Transfer Learning :
-This is a multi-class classification model of Alzheimer Disease's  risk level into 4 categories, using Convolution Neural Networks Architecture on a dataset of 44,000 MRI images of the human brain.
+This is a multi-class classification model of Alzheimer Disease's  risk level into 4 categories, using Convolution Neural Networks Architecture and Transfer Learning on a dataset of 44,000 MRI images of the human brain.
 
 # About the Dataset :
 The Alzheimer's Disease Multiclass Dataset contains approximately 44,000 MRI images categorized into four distinct classes based on the severity of Alzheimer's disease. This dataset is intended for use in machine learning model training and testing. All images are skull-stripped and clean of non-brain tissue.
